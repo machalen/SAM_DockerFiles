@@ -8,3 +8,11 @@ Aquestes imatges son programes construits basant-se amb les instruccions del doc
 
 Un cop tenim la imatge, quan correm un procés utilitzant-la, creem un container.
 
+GitHub és util ja que ens permet:
+
+*Compartir el nostre codi amb altres investigadors.
+*Documentar els canvis que es fan al codi.
+*Publicar les nostres dockerfile imatges directament a DockerHub, d'aquesta manera podem baixar-nos les imatges a qualsevol ordenador que tingui instal·lat docker amb la instrucció:
+
+>docker run Nom_del_repo
+
