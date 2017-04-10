@@ -16,6 +16,6 @@ GitHub és util ja que ens permet:
 
 >docker run Nom_del_repo
 
-## Clonar el repositori GitHub
+### Clonar el repositori GitHub
 Clonem el repositori al nostre ordenador en local i creem el dockerFile amb les instruccions pertinents
 
