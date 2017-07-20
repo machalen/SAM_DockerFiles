@@ -11,4 +11,4 @@ RUN install2.r -r http://bioconductor.org/packages/3.0/bioc --deps TRUE \
 
     rm -rf /tmp/downloaded_packages
 
-USER marnal:sam
+USER 10008:9001
