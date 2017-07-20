@@ -1,4 +1,5 @@
 # FROM indicarem a partir de quina image generem la nova
+USER marnal
 FROM r-base
 
 RUN install2.r --error --deps TRUE  Rcpp
